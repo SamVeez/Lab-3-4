@@ -1,0 +1,14 @@
+D:\Prakticheskie\3-4\34pr\bin\Debug\34pr.exe.config
+D:\Prakticheskie\3-4\34pr\bin\Debug\34pr.exe
+D:\Prakticheskie\3-4\34pr\bin\Debug\34pr.pdb
+D:\Prakticheskie\3-4\34pr\obj\Debug\34pr.csprojAssemblyReference.cache
+D:\Prakticheskie\3-4\34pr\obj\Debug\34pr.exe
+D:\Prakticheskie\3-4\34pr\obj\Debug\34pr.pdb
+F:\Prakticheskie\3-4\34pr\bin\Debug\34pr.exe.config
+F:\Prakticheskie\3-4\34pr\bin\Debug\34pr.exe
+F:\Prakticheskie\3-4\34pr\bin\Debug\34pr.pdb
+F:\Prakticheskie\3-4\34pr\obj\Debug\34pr.csprojAssemblyReference.cache
+F:\Prakticheskie\3-4\34pr\obj\Debug\34pr.csproj.CoreCompileInputs.cache
+F:\Prakticheskie\3-4\34pr\obj\Debug\34pr.exe
+F:\Prakticheskie\3-4\34pr\obj\Debug\34pr.pdb
+D:\Prakticheskie\3-4\34pr\obj\Debug\34pr.csproj.CoreCompileInputs.cache
